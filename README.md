@@ -18,7 +18,7 @@ Official binary sources (provided by davidgfnet):
 
 * Ubuntu: https://launchpad.net/~whatsapp-purple/+archive/ubuntu/ppa
 * Fedora: https://copr.fedoraproject.org/coprs/davidgf/whatsapp-purple/
-* Windows: https://gosell.it/product/whatsapp-for-pidgin-20
+* Windows: <needs contributor>
 
 
 Building
